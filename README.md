@@ -7,7 +7,7 @@
 
 ### My Stats :
 <a href="https://github.com/kristandy/github-readme-stats">
-  <img align="center" src"https://github-readme-stats.vercel.app/api/top-langs/?username=kristandy&layout=donut&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristandy&layout=donut&theme=radical" />
   
 </a>
 
