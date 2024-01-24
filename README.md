@@ -7,8 +7,8 @@
 
 ### My Stats :
 <a href="https://github.com/kristandy/github-readme-stats">
-  <img height=200 align="left" src"https://github-readme-stats.vercel.app/api/top-langs/?username=kristandy&layout=donut&theme=radical" />
-  <img height=200 align="right" src"https://github-readme-stats.vercel.app/api?username=kristandy&theme=radical" />
+  <img height=200 align="center" src"https://github-readme-stats.vercel.app/api/top-langs/?username=kristandy&layout=donut&theme=radical" />
+  <img height=200 align="center" src"https://github-readme-stats.vercel.app/api?username=kristandy&theme=radical" />
 </a>
 
 <!--
