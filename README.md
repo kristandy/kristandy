@@ -5,13 +5,12 @@
 ### Hello there 👋
 🔭 I’m currently studying at Politeknik Negeri Bandung
 
-### 👨‍💻: About Me :
-- :telescope: I’m currently studying at Politeknik Negeri Bandung.
-  
 ### My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristandy&layout=donut&theme=radical)](https://github.com/kristandy/github-readme-stats)
+<a href="https://github.com/kristandy/github-readme-stats">
+  <img height=200 align="left" src"https://github-readme-stats.vercel.app/api/top-langs/?username=kristandy&layout=donut&theme=radical" />
+  <img height=200 align="right" src"https://github-readme-stats.vercel.app/api?username=kristandy&theme=radical" />
+</a>
 
-[![Kristandy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kristandy&theme=radical)](https://github.com/kristandy/github-readme-stats)
 <!--
 **kristandy/kristandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
